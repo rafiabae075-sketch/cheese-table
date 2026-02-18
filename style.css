@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h1{
+    margin-top: 120px;
+}
+table{
+    text-align: center;
+    margin-left: 175px;
+    width: 70%;
+    height: 20px;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+th td {
+   line-height: 20px;
+    padding: 8px;
+}
+.row{
+    line-height: 35px;
+}
